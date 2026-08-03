@@ -1,1 +1,1 @@
-# this is completed college project
+# this is completed college project of machine learning 
